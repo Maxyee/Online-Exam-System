@@ -1,0 +1,19 @@
+<!--
+                                <?php/* if($total == $number){
+                                    echo '<input style="color:red" type="submit" name="submit" value="Submit">';
+                                } else {
+                                */
+                                ?>
+                                <a style="color:white" class="btn btn-primary" href="exampage.php?q=<?php/* echo $newpage; ?>">Next</a>
+                                <?php }*/ ?>
+                                <hr>
+                                -->
+                                <!--
+                                <a href="endpage.php">Finish</a>
+                    			<!-- /tabs -->
+                    			<!--
+                		    </form>
+                		    <ul class="sync-pagination"></ul>
+                            <div id="content">Page 1</div>
+                            <ul class="sync-pagination pagination-sm"></ul>	
+                			 -->
